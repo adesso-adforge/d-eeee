@@ -1,4 +1,4 @@
-# {{DS_NAME}}
+# d-eeee
 
 > Design system scaffolded by [adforge](https://github.com/adforge).
 

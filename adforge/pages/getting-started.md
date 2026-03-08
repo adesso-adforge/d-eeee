@@ -5,18 +5,18 @@ order: 1
 
 # Getting Started
 
-Welcome to **{{DS_NAME}}**! This is your first documentation page.
+Welcome to **d-eeee**! This is your first documentation page.
 
 ## Installation
 
 ```bash
-pnpm add {{REPO_NAME}}
+pnpm add d-eeee
 ```
 
 ## Usage
 
 ```tsx
-import { Button } from '{{REPO_NAME}}';
+import { Button } from 'd-eeee';
 
 export default function App() {
   return <Button variant="primary">Click me</Button>;

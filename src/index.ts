@@ -1,5 +1,5 @@
 /**
- * {{DS_NAME}} — public API
+ * d-eeee — public API
  *
  * Export all public components, hooks, and utilities from this file.
  */
